@@ -1,7 +1,8 @@
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/productos">Productos</router-link> |
+    <router-link to="/carrito">Carrito</router-link>
   </div>
   <router-view />
 </template>
@@ -26,5 +27,23 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
+}
+
+.button {
+  background-color: cadetblue;
+  border: 0px;
+  border-radius: 5px;
+  padding: 0.6em;
+  margin: 0.4em;
+  color: antiquewhite;
+  font-weight: 700;
+}
+.button:hover {
+  cursor: pointer;
+  background-color: forestgreen;
+}
+.button:active {
+  cursor: pointer;
+  background-color: brown;
 }
 </style>

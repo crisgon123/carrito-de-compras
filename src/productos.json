@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombre": "Monitor Odyssey G3",
+    "descripcion": "Monitor Gamer Samsung Odyssey G3 F27G35TFWL 1920 x 1080 27″ FHD 144Hz",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNTA7JwR2Q760OYB9Xy9lVe5GVroAorVsPPQ&usqp=CAU",
+    "precio": {
+      "usd": 389,
+      "pen": 1337
+    },
+    "stock": 3,
+    "categoria": "monitor"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Gamer Programable T-Dagger Lan",
+    "descripcion": "GENERICO Mouse Gamer Programable T-Dagger Lance Corporal",
+    "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/17821868_1?wid=800&hei=800&qlt=70",
+    "precio": {
+      "usd": 50,
+      "pen": 170
+    },
+    "stock": 2,
+    "categoria": "mouse"
+  },
+  {
+    "id": 3,
+    "nombre": "Logitech Mouse Gamer Óptico G203 LightSync",
+    "descripcion": "Resolución de movimiento : 8000 DPI, longitud de cable: 2,1 m. cantidad de botones: 6",
+    "imagen": "https://oasify.com/wp-content/uploads/2020/11/910-005793-1.jpg",
+    "precio": {
+      "usd": 60,
+      "pen": 200
+    },
+    "stock": 5,
+    "categoria": "mouse"
+  },
+  {
+    "id": 4,
+    "nombre": "Mouse Redragon Griffin M607 Gamer RGB",
+    "descripcion": "Marca: Redragon, Modelo: Griffin M607, Botones Programables: 7, TIpo de agarre: Palm, Claw, Orientación: Derecho, Cable: mallado de 1.8",
+    "imagen": "https://tiendastec.com.pe/wp-content/uploads/2021/10/Mouse-Redragon-Griffin-M607-3.jpg",
+    "precio": {
+      "usd": 80,
+      "pen": 280
+    },
+    "stock": 6,
+    "categoria": "mouse"
+  },
+  {
+    "id": 5,
+    "nombre": "TECLADO GAMER XTK-520S",
+    "descripcion": "MARCA XTECH COLOR NEGRO CONTENIDO: TECLADO MODELO XTK-520S DISEÑO ESTANDAR ,REILUMINACION LED INTERFAS USB PESO 870g ",
+    "imagen": "https://pcq.pe/images/mouseyteclados/revenger-xtk-520s.jpg",
+    "precio": {
+      "usd": 100,
+      "pen": 370
+    },
+    "stock": 5,
+    "categoria": "teclado"
+  },
+  {
+    "id": 6,
+    "nombre": "Teclado Gamer Kripton MICRONICS MIC K",
+    "descripcion": "Sistema Láser Carved. Retroiluminación LED 7 Colores. Sistema Waterproof",
+    "imagen": "https://oechsle.vteximg.com.br/arquivos/ids/5045232-1000-1000/image-ec2697bb3f564dc0b344929d047c3645.jpg?v=637679535152030000",
+    "precio": {
+      "usd": 140,
+      "pen": 500
+    },
+    "stock": 4,
+    "categoria": "teclado"
+  },
+  {
+    "id": 7,
+    "nombre": "Monitor Gamer UltraGear 23.8” IPS 144HZ",
+    "descripcion": "Especificaciones técnicas para LG 24GN600-B Monitor Gamer UltraGear 23.8” IPS ",
+    "imagen": "https://www.lg.com/pe/images/monitores/md07540629/gallery/D-01.jpg",
+    "precio": {
+      "usd": 140,
+      "pen": 500
+    },
+    "stock": 4,
+    "categoria": "monitor"
+  }
+]
